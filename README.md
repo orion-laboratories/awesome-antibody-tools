@@ -10,7 +10,8 @@ The goal is to create a comprhensive list of tools and databases for antibody-re
 GeoFlow - not open-source but available for non-commercial applications
 
 ### Docking-based antibody-antigen prediction
-http://geobiologics-lite.biogeom.com/about - not open-source but available for non-commercial applications
+GeoFlow - not open-source but available for non-commercial applications
+
 DiffDockPP - AI-driven MD for PPI
 
 ### Other Antibody Tools
