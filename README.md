@@ -9,8 +9,11 @@ This repository contains a manually curated dataset of protein-antigen pairs tha
 
 ### AI-based antibody-antigen prediction
 AbAgIntPre: - http://www.zzdlab.com/AbAgIntPre/ https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1053617/full https://github.com/emersON106/AbAgIntPre
+
 ImaPEp: - https://www.mdpi.com/1422-0067/25/10/5434 https://github.com/3BioCompBio/ImaPEp
+
 GeoFlow: not open-source but available for non-commercial applications
+
 Geometric Paratope Epitope Prediction: https://github.com/Marco-Peg/GEP
 
 ### Docking-based antibody-antigen prediction
@@ -19,7 +22,9 @@ GeoFlow - not open-source but available for non-commercial applications
 ### General PPI prediction tools that can be applied here
 
 DiffDockPP - AI-driven MD for PPI
+
 AlphaFold
+
 HADDOCK
 
 
