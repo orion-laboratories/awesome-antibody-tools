@@ -5,6 +5,8 @@ The goal is to create a comprhensive list of tools and databases for antibody-re
 ## Datasets
 This repository contains a manually curated dataset of protein-antigen pairs that are not likely to be used for training of the methods mentioned below
 
+https://adcdb.idrblab.net/
+
 ## Tools
 
 ### AI-based antibody-antigen prediction
