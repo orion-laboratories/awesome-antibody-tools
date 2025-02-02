@@ -46,6 +46,7 @@ AttABseq
 EvolvePro - https://github.com/mat10d/EvolvePro https://www.science.org/doi/10.1126/science.adr6006 https://github.com/idmjky/EvolvePro
 It requires experimental measure for optimization and training
 
+AbLEF antibody language https://github.com/Merck/AbLEF https://academic.oup.com/bioinformatics/article/40/5/btae268/7646845
 
 
 ## Leaderboard
