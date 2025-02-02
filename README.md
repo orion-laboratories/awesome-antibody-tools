@@ -35,6 +35,8 @@ HADDOCK
 #### improve affinity
 AttABseq
 
+"Unsupervised evolution of protein and antibody complexes with a structure-informed language model". https://github.com/varun-shanker/structural-evolution https://www.science.org/stoken/author-tokens/ST-1968/full
+
 #### improve developelability
 
 #### humanization
@@ -42,6 +44,7 @@ AttABseq
 
 ### Other Antibody Tools
 EvolvePro - https://github.com/mat10d/EvolvePro https://www.science.org/doi/10.1126/science.adr6006 https://github.com/idmjky/EvolvePro
+It requires experimental measure for optimization and training
 
 
 
