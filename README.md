@@ -55,7 +55,7 @@ AbLEF antibody language https://github.com/Merck/AbLEF https://academic.oup.com/
 
 ## Leaderboard
 
-All methods should be added to a docker and tested on a gold-standard database.
+All methods should be added to a docker and tested on a manually curated dataset.
 
 |Method|Description|AUC|
 |------|-----------|---|
