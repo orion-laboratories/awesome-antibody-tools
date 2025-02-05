@@ -20,6 +20,7 @@ Geometric Paratope Epitope Prediction: https://github.com/Marco-Peg/GEP
 
 ### Docking-based antibody-antigen prediction
 GeoFlow - not open-source but available for non-commercial applications
+AbAdapt - predict most likely pose from AA sequences of antigen + antibody https://sysimm.org/abadapt/workflow
 
 ### General PPI prediction tools that can be applied here
 
