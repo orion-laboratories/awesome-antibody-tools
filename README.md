@@ -18,8 +18,11 @@ GeoFlow: not open-source but available for non-commercial applications
 
 Geometric Paratope Epitope Prediction: https://github.com/Marco-Peg/GEP
 
+Antipasti: binding affinity prediction https://github.com/kevinmicha/ANTIPASTI
+
 ### Docking-based antibody-antigen prediction
 GeoFlow - not open-source but available for non-commercial applications
+
 AbAdapt - predict most likely pose from AA sequences of antigen + antibody https://sysimm.org/abadapt/workflow
 
 ### General PPI prediction tools that can be applied here
