@@ -40,6 +40,7 @@ This repository contains a manually curated dataset of protein-antigen pairs tha
 - **[luost26/diffab](https://github.com/luost26/diffab)**  
   *Diffusion-based generative model for antigen-specific antibody design and optimization.*  
   Developed and presented at NeurIPS 2022.
+  Benchmark: https://github.com/AstraZeneca/DiffAbXL
 
 - **[pengzhangzhi/ab_opt](https://github.com/pengzhangzhi/ab_opt)**  
   *Generative Diffusion Models for Antibody Design, Docking, and Optimization.*  
@@ -53,7 +54,7 @@ This repository contains a manually curated dataset of protein-antigen pairs tha
   *A demo application using LangChain4j for AI-backed drug discovery research.*  
   Includes steps to derive new candidate antibodies from antigen sequence and known antibody features.
 
-
+- GeoAB: https://github.com/EDAPINENUT/GeoAB
 
 
 ### Docking-based antibody-antigen prediction
@@ -79,6 +80,8 @@ This repository contains a manually curated dataset of protein-antigen pairs tha
 - **[oxpig/AntiFold](https://github.com/oxpig/AntiFold)**  
   *Antibody-specific inverse folding model for structure-based design.*  
   Fine-tuned from ESM-IF1 to predict sequences that fold into a desired antibody structure with optimized binding properties.
+
+- MEAN: https://github.com/THUNLP-MT/MEAN
 
 
 #### improve developelability
@@ -128,6 +131,9 @@ It requires experimental measure for optimization and training
   Supports modeling of antibody–antigen complexes.
 
 
+## AB funnel pipeline
+
+antigen -> antigen structure + seq -> predicted AB or starting AB -> AB structure prediction  -> improve affinity -> improve developelability -> docking
 
 
 ## Leaderboard
