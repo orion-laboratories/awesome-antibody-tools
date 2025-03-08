@@ -136,15 +136,7 @@ It requires experimental measure for optimization and training
 antigen -> antigen structure + seq -> predicted AB or starting AB -> AB structure prediction  -> improve affinity -> improve developelability -> docking
 
 
-## Leaderboard
-
-All methods should be added to a docker and tested on a manually curated dataset.
-
-|Method|Description|AUC|
-|------|-----------|---|
-|TBD|TBD|0.5|
-
 
 ## Contribute
-
+To contribute open a new issue with your suggestions.
 
