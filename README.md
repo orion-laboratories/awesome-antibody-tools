@@ -64,6 +64,8 @@ This repository contains a manually curated dataset of protein-antigen pairs tha
 
 ### General PPI prediction tools that can be applied here
 
+- Boltz2 https://github.com/jwohlwend/boltz?tab=readme-ov-file
+
 - DiffDockPP - AI-driven MD for PPI
 
 - AlphaFold
